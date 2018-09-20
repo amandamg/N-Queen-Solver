@@ -1,7 +1,7 @@
        ___________  
       |_READ__ME__|
      
-CS 420-01 Artificial Intelligence: Project #2: N-Queen Problem (N = 21)
+ N-Queen Problem (N = 21)
 
 Amanda Garcia
 
